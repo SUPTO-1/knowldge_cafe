@@ -1,0 +1,52 @@
+[
+    {
+      "id": "123456",
+      "cover_img": "https://i.ibb.co/pRTYQ3Y/technology-communication-icons-symbols-concept.jpg",
+      "title": "The Secret Garden",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/G9DSd4R/portrait-young-man-while-studying-books.jpg",
+      "posteddate": "March 16, 2024",
+      "readingtime": 10,
+      "hashtags": ["#mystery", "#adventure", "#fantasy"]
+    },
+    {
+      "id": "789012",
+      "cover_img": "https://i.ibb.co/pRTYQ3Y/technology-communication-icons-symbols-concept.jpg",
+      "title": "Lost in the Woods",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/G9DSd4R/portrait-young-man-while-studying-books.jpg",
+      "posteddate": "March 15, 2024",
+      "readingtime": 15,
+      "hashtags": ["#nature", "#survival", "#exploration"]
+    },
+    {
+      "id": "345678",
+      "cover_img": "https://i.ibb.co/pRTYQ3Y/technology-communication-icons-symbols-concept.jpg",
+      "title": "Echoes of the Past",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/G9DSd4R/portrait-young-man-while-studying-books.jpg",
+      "posteddate": "March 14, 2024",
+      "readingtime": 20,
+      "hashtags": ["#history", "#mystery", "#archaeology"]
+    },
+    {
+      "id": "901234",
+      "cover_img": "https://i.ibb.co/pRTYQ3Y/technology-communication-icons-symbols-concept.jpg",
+      "title": "Beyond the Horizon",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/G9DSd4R/portrait-young-man-while-studying-books.jpg",
+      "posteddate": "March 13, 2024",
+      "readingtime": 12,
+      "hashtags": ["#adventure", "#journey", "#inspiration"]
+    },
+    {
+      "id": "567890",
+      "cover_img": "https://i.ibb.co/pRTYQ3Y/technology-communication-icons-symbols-concept.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Sarah Thompson",
+      "author_img": "https://i.ibb.co/G9DSd4R/portrait-young-man-while-studying-books.jpg",
+      "posteddate": "March 12, 2024",
+      "readingtime": 18,
+      "hashtags": ["#romance", "#mystery", "#suspense"]
+    }
+]
